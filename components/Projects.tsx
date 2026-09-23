@@ -21,7 +21,7 @@ const projects = [
     subtitle: "Placement Preparation Platform",
     description:
       "A platform that brings coding practice and aptitude preparation together to help students prepare for technical placement opportunities.",
-    technologies: ["Next.js", "Tailwind CSS", "MySQL"],
+    technologies: ["Next.js", "Tailwind CSS", "Supabase", "JWT Authentication"],
   },
 ];
 
